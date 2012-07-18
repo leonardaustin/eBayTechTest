@@ -19,4 +19,5 @@
  - Spend time building a proper MVC with router and proper view object.
  - HTML: Remove inline styles and move to stylesheet, change title for each page and meta description. Possibly add ajax 
  - Create behat tests for the most important pages
+ - Add validation to the user values to ensure they can't put something outside the game allowed values in.
  - Save the game result into cookie, session, database for a leader board or possible a war games easter egg e.g. if a user looses 10 times in a row print the message "The only winning move is not to play. How about a nice game of chess?"

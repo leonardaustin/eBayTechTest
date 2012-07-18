@@ -4,11 +4,15 @@ namespace Ebay\User;
 use Ebay\User\UserInterface;
 
 /**
- * Description of User
+ * A User of games with abstract method which all users wishing to play games
+ * need.
  *
- * @author leonardaustin
+ * @author Leonard Austin
  */
 abstract class User implements UserInterface{
     
+    /**
+     * Get the user value fo the game 
+     */
     abstract public function getUserValue();
 }
