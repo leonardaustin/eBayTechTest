@@ -12,7 +12,7 @@
  - Unit tests for all model methods. 
  - Dockblock for all methods
  - Class const to ensure future developers understand and can reference string to avoid mistyping.
- - There are a couple of methods which might look out of place however were purposely used because of design decisions (one static method in RockPaperScissors and get/set player1/2). It mainly revolves around ensuring the code is extendable.
+ - There are a couple of methods which might look out of place however were purposely used because of design decisions (one static method in RockPaperScissors and get/set player1/2). It mainly revolves around ensuring the code is extendable. If these methods need more explanation please feel free to call me. 
 
 
 ## Improvements
