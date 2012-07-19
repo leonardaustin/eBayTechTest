@@ -9,10 +9,11 @@ use Ebay\User\UserInterface;
  *
  * @author Leonard Austin
  */
-abstract class User implements UserInterface{
+abstract class User {
     
     /**
      * Get the user value fo the game 
+     * Removed as interface does the job instead
      */
-    abstract public function getUserValue();
+    //abstract public function getUserValue();
 }
